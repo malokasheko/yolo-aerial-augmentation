@@ -1,0 +1,8 @@
+# Paths are relative to this file's folder. In Colab/Drive, add:  path: /content/drive/MyDrive/<your>/dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names:
+  0: car
