@@ -7,3 +7,8 @@ dataset/
 results/part1_bgdiff/
 results/sweep_*/
 __pycache__/
+raw/
+dataset/
+results/part1_bgdiff/
+results/sweep_*/
+__pycache__/
