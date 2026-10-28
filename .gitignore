@@ -2,3 +2,8 @@ raw/
 dataset/
 results/part1_bgdiff/
 results/sweep_*/
+raw/
+dataset/
+results/part1_bgdiff/
+results/sweep_*/
+__pycache__/
