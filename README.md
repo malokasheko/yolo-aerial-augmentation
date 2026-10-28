@@ -108,4 +108,4 @@ names:
   0: car
 ```
 
-**Google Drive link to the dataset:** <[PASTE YOUR DRIVE LINK HERE](https://drive.google.com/drive/folders/115m1kUqr2udP6CyTzjMgALciVj08Msu_?usp=sharing)>
+**Google Drive link to the dataset:** <[link of dataset](https://drive.google.com/drive/folders/115m1kUqr2udP6CyTzjMgALciVj08Msu_?usp=sharing)>
